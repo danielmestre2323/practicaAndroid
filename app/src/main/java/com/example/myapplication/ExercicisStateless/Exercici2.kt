@@ -1,4 +1,4 @@
-package com.example.myapplication.Exercicis
+package com.example.myapplication.ExercicisStateless
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement

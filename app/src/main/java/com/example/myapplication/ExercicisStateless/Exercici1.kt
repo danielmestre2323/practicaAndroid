@@ -1,4 +1,4 @@
-package com.example.myapplication.Exercicis
+package com.example.myapplication.ExercicisStateless
 
 import androidx.compose.material3.Text
 import androidx.compose.ui.Modifier

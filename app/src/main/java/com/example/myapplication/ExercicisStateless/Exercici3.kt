@@ -1,4 +1,4 @@
-package com.example.myapplication.Exercicis
+package com.example.myapplication.ExercicisStateless
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -61,9 +61,9 @@ private fun QuadrantTargeta(
         modifier = modifier
             .fillMaxSize()
             .background(colorFons)
-            .padding(16.dp), // Marge interior
-        verticalArrangement = Arrangement.Center, // Centra verticalment
-        horizontalAlignment = Alignment.CenterHorizontally // Centra horitzontalment
+            .padding(16.dp),
+        verticalArrangement = Arrangement.Center,
+        horizontalAlignment = Alignment.CenterHorizontally
     ) {
         Text(
             text = titol,
